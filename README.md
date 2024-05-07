@@ -60,4 +60,7 @@ plt.legend(['Regression Line','Data points'])
 # Result
 the analyzation of the given data using coeffificient of correlation and regression line is successfully executed
 # Output 
-![WhatsApp Image 2024-04-24 at 09 10 19_9671db7a](https://github.com/NARRAAKHIL/Correlation_Regression/assets/144979843/2c828917-95fb-4625-9f1c-9b787f006fd9)
+![CORELATION](https://github.com/NARRAAKHIL/Correlation_Regression/assets/144979843/88ea4fa7-8dce-4c97-9aa9-2815bd569200)
+
+# Result
+To analyse given data using coeffificient of correlation and regression line. is done successfully.
